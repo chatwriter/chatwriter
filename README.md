@@ -1,5 +1,26 @@
 # Chatwriter
-Messaging / Word Processing System
+Simultaneous messenger / word processor
+
+## Features
+
+### Rapid Composition
+Sharing thoughts a sentence at a time makes it possible to update common information about what is believed, or not believed, on various topics. 
+
+This application is designed to update collections of common information in both dialogue and document form in real time, so that documents can be drafted at the speed their subject matter can be discussed. 
+
+### Rationalism
+Discussion is good for producing ever-clearer indications about what all is believed or not believed about topics both general and specific. This is done when we build on or justify our beliefs in response to the input of others, or ask questions that suggest further complexities to a topic. 
+
+This software enables one to encode such forms of interaction, so that discussing a point automatically develops paragraphs out of the exchange, and the act of questioning lends structure to the store of common information.
+
+### Non-conflicting Collaboration
+Paragraphs can communicate differing viewpoints while falling under the same topic. It should therefore be possible to share a common  document outline, while at the same time reserving the right to include paragraphs one believes and exclude paragraphs one does not.
+
+
+
+### Rationalism
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
